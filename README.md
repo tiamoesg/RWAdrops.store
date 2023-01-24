@@ -1,5 +1,5 @@
 ## Mission
-I was hoping to skip the necessity of building out our own CMV3 front end.. but currently it is seeming like it will be faster than searching through all of the broken templates. At least until we have our own developers. M
+I was hoping to skip the necessity of building out our own CMV3 front end.. but currently it is seeming like it will be faster than searching through all of the broken templates. At least until we have our own developers.
 
 We need a space to sell our RWA NFTs to our community, with an NFT membership gate on the minting. 
 1. In the beginning we will create a single product template that we can continue to relaunch as we create new projects. 
