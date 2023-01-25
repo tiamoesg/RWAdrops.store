@@ -3,6 +3,19 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
+import { CrossmintPayButton } from "@crossmint/client-sdk-react-ui";
+
+export default function Mint() {
+    return (
+        <div>
+            <CrossmintPayButton    
+                clientId="_YOUR_CLIENT_ID"
+                className="xmint-btn"
+            />
+        </div>
+    );
+}
+
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
